@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSE_Transport", "HSE_Transport\HSE_Transport.csproj", "{A22789F4-E99C-46AD-BC33-E15694E2A72A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKRLib", "EKRLib\EKRLib.csproj", "{1A14877E-89B2-4585-99FB-B5CADCAFEC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22789F4-E99C-46AD-BC33-E15694E2A72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22789F4-E99C-46AD-BC33-E15694E2A72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22789F4-E99C-46AD-BC33-E15694E2A72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22789F4-E99C-46AD-BC33-E15694E2A72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A14877E-89B2-4585-99FB-B5CADCAFEC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A14877E-89B2-4585-99FB-B5CADCAFEC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A14877E-89B2-4585-99FB-B5CADCAFEC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A14877E-89B2-4585-99FB-B5CADCAFEC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/bin/Debug/net6.0/EKRLib.deps.json
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/bin/Debug/net6.0/EKRLib.dll
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/bin/Debug/net6.0/EKRLib.pdb
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/EKRLib.csproj.AssemblyReference.cache
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/EKRLib.AssemblyInfoInputs.cache
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/EKRLib.AssemblyInfo.cs
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/EKRLib.csproj.CoreCompileInputs.cache
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/EKRLib.dll
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/refint/EKRLib.dll
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/EKRLib.pdb
+/Users/maksimivanov/RiderProjects/HSE_Transport/EKRLib/obj/Debug/net6.0/ref/EKRLib.dll
